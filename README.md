@@ -19,7 +19,7 @@ To run this code, clone the code above, navigate to the correct directory, open 
 ## Usage
 See this video for an example for how to use this e-commerce back end:
 
-COMING SOON
+https://drive.google.com/file/d/14mS1mWYUDY8WyLXgmHBAezrkv3ocLYvR/view
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
